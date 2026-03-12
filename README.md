@@ -1,5 +1,6 @@
-Programul intra in folderul Downloads si verifica fiecare fisier. In functie de extensie, il muta intr-un folder potrivit.
+Am realizat acest script pentru a-mi organiza mai usor fisierele din folderul Downloads.
 
+Programul verifica fiecare fisier din Downloads si, in functie de extensie, il muta intr-un folder potrivit.
 De exemplu:
 - pozele merg in folderul Imagini (.jpg, .jpeg, .png, .gif, .bmp, .webp)
 - fisierele zip sau rar merg in Arhive (.zip, .rar, .7z, .tar)
